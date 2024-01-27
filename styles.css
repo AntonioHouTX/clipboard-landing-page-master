@@ -18,8 +18,17 @@ body {
   font-weight: 400, 600;
   font-style: normal;
   font-size: 18px;
-
 }
+
+h1{
+  color: var(--dark-grayish-blue);
+}
+
+p {
+  color: var(--grayish-blue);
+}
+
+
 .attribution {
   font-size: 11px;
   text-align: center;
